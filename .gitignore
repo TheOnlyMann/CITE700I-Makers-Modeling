@@ -1,0 +1,8 @@
+**
+
+!.gitignore
+!*.3dm
+!*.txt
+!*.dxf
+!*.3xf
+!*.stl
