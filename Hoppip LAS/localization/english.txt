@@ -1,0 +1,5 @@
+{
+  "bm_menu_hoppip_armor_skins": "Jokermon",
+  "bm_askn_hoppip" : "Hoppip",
+  "bm_askn_hoppip_desc" : "PAYDAY Modding Best Hoppip tomatowo"
+}
